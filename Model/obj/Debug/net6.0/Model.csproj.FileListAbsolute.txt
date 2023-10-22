@@ -1,0 +1,15 @@
+C:\RegistaAdmin\Model\bin\Debug\net6.0\Model.deps.json
+C:\RegistaAdmin\Model\bin\Debug\net6.0\Model.dll
+C:\RegistaAdmin\Model\bin\Debug\net6.0\Model.pdb
+C:\RegistaAdmin\Model\bin\Debug\net6.0\infrastructure.dll
+C:\RegistaAdmin\Model\bin\Debug\net6.0\infrastructure.pdb
+C:\RegistaAdmin\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\RegistaAdmin\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\RegistaAdmin\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\RegistaAdmin\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\RegistaAdmin\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\RegistaAdmin\Model\obj\Debug\net6.0\Model.csproj.CopyComplete
+C:\RegistaAdmin\Model\obj\Debug\net6.0\Model.dll
+C:\RegistaAdmin\Model\obj\Debug\net6.0\refint\Model.dll
+C:\RegistaAdmin\Model\obj\Debug\net6.0\Model.pdb
+C:\RegistaAdmin\Model\obj\Debug\net6.0\ref\Model.dll

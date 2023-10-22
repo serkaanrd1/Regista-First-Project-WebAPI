@@ -1,0 +1,12 @@
+C:\RegistaAdmin\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\RegistaAdmin\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\RegistaAdmin\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\RegistaAdmin\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\RegistaAdmin\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\RegistaAdmin\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\RegistaAdmin\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\RegistaAdmin\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\RegistaAdmin\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\RegistaAdmin\infrastructure\obj\Debug\net6.0\refint\infrastructure.dll
+C:\RegistaAdmin\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\RegistaAdmin\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
