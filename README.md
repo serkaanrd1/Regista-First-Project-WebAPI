@@ -12,7 +12,6 @@ This project is a robust .NET WebAPI solution designed to handle backend operati
 - Entity Framework (EF)
 - Microsoft SQL Server (MSSQL)
 - AutoMapper
-- [Add any other relevant technologies]
 
 ## Project Structure
 
