@@ -52,4 +52,3 @@ Please ensure that your contributions adhere to the project's coding standards a
 
 ## License
 
-[Specify the license under which your project is distributed. Include any additional terms or conditions if applicable.]
